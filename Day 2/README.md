@@ -8,7 +8,7 @@ This is a documentation from Day 2 of my internship.
 
 ---
 
-🎯 Objective:*
+🎯 Objective:
 
 To understand *how cloud virtual machines work* by creating, configuring, and connecting to a *cloud-based server instance* using a free-tier account.
 This task introduces interns to *Infrastructure-as-a-Service (IaaS)* — the foundation of all cloud operations.
