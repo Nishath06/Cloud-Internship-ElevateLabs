@@ -12,7 +12,7 @@ This task teaches the backbone of secure cloud architecture and how resources ar
 - With CIDR Range of 10.0.0.0/16
 - create two new public and two private subnets
 - Created one Internet gateway name project-igw
-- And one route table
+- And one route table for each public subnet 
 
 ![Image 1](image1.png)
 
