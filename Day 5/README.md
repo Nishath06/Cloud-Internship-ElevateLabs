@@ -13,7 +13,7 @@ This task helps you learn *database provisioning, connectivity, and CRUD operati
 
 
 
-### Creating DB
+### Creating Aurora DB
 ![Image 1](image1.png)
 
 ### Successfuly Created 
